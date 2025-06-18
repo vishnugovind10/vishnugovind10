@@ -1,70 +1,153 @@
 # Vishnu Govind
 
-**Strategic Fintech & Blockchain Leader | Quant Trading Systems Architect | Python, MQL4, C++**
+<div align="center">
 
-👋 I'm Vishnu, a seasoned fintech professional with over 15 years of experience building high-performance trading systems and strategies that turn market complexity into competitive advantage. My focus is on designing and optimizing algorithmic trading solutions, specializing in **high-frequency trading (HFT)**, **scalping**, **statistical arbitrage**, **swing trading**, and **momentum strategies**. I leverage **Python**, **MQL4**, and **C++** to craft data-driven tools that enhance execution, manage risk, and maximize profitability.
+**🌊 Signal Catalyst for Web3 Systems**
 
-🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/vishnu-govind) | [Medium](https://vishnugovind10.medium.com)
+*Architecting Resilient DeFi Infrastructure | Integrating Protocols, Risk & Behavior | Synthesizing Execution & Market Microstructure*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-govind)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vishnugovind10)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishnugovindmkt)
 
-## What I Do
-
-I engineer robust trading systems and strategies that deliver results in volatile markets. My expertise spans:
-
-- **Algorithmic Trading**: Building HFT, scalping, and arbitrage strategies using Python (NumPy, Pandas, Ta-Lib), MQL4 (MetaTrader), and C++ for low-latency execution.
-- **Market Microstructure**: Optimizing liquidity provision, reducing slippage, and enhancing execution through advanced order flow analysis and market-making algorithms.
-- **Risk Management**: Designing VaR-based frameworks, stress testing, and position-sizing algorithms to ensure portfolio resilience.
-- **Blockchain & DeFi**: Developing hybrid DEX/CEX architectures and optimizing vAMM perpetual contract protocols for efficiency and security.
-- **Data-Driven Insights**: Using tools like Tableau, Bloomberg Terminal, and TradingView to analyze market trends and inform strategic decisions.
+</div>
 
 ---
 
-## Key Achievements
+## 👨‍💻 Professional Summary
 
-- **Trading Performance**: Delivered **12.5% average monthly returns** as a digital assets trader by leveraging Python-based HFT and scalping strategies (Proprietary Capital, 2020-2021).
-- **System Optimization**: Reduced trade execution latency by **30%** through low-latency APIs and infrastructure enhancements (Onix Capital, 2020).
-- **Liquidity Enhancement**: Boosted liquidity provider participation by **15%** via refined staking strategies and vAMM protocol optimizations (Sovrin Chain, 2024).
-- **Infrastructure Modernization**: Led AWS migration for trading systems, cutting operational costs by **25%** ($300K/year) and improving efficiency by **30%** (eNoah, 2021-2022).
-- **Market-Making Innovation**: Designed a scalable hybrid DEX-CEX framework, reducing transaction latency by **20%** in simulations (Sovrin Chain, 2024).
+With over **15 years of experience** across financial markets and emerging decentralized infrastructure, I specialize in architecting resilient DeFi systems and optimizing protocols for performance, security, and strategic impact. My work bridges traditional finance and decentralized ecosystems, focusing on liquidity design, risk integration, and market microstructure.
+
+> **I build solutions that don't just scale—they survive chaos.**
 
 ---
 
-## Featured Projects
+## 🧭 Core Strategic Domains
 
-Here are some of my open-source contributions tailored for Quant Traders:
-
-- **[Market-Making Algorithm](https://github.com/vishnugovind10/MarketMaking)**  
-  A Python-based market-neutral liquidity provision algorithm for cryptocurrency markets, optimizing bid-ask spreads and reducing slippage.  
-  *Tech Stack*: Python, NumPy, Pandas, ccxt.
-
-- **[TradingView Sentiment Indicator](https://github.com/vishnugovind10/TradingviewSentimentIndicator)**  
-  A sentiment analysis tool using VWAP and volume profile to gauge market trends, built in Python and integrated with TradingView APIs.  
-  *Tech Stack*: Python, Ta-Lib, TradingView.
-
-- **[Correlation Indicator Framework](https://github.com/vishnugovind10/CorrelationIndicator)**  
-  A cross-asset correlation analysis tool for Bitcoin, enabling swing trading and momentum strategies.  
-  *Tech Stack*: Python, Pandas, SciPy.
-
-- **[TWAP Execution Algorithm](https://github.com/vishnugovind10/TWAPexecution)**  
-  A time-weighted average price (TWAP) strategy for institutional order execution, minimizing market impact.  
-  *Tech Stack*: Python, C++, MQL4.
+<table>
+<thead>
+<tr>
+<th>Domain</th>
+<th>Projects</th>
+<th>Focus Area</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Liquidity & Market Design</strong></td>
+<td><a href="#marketmaking">MarketMaking</a>, <a href="#twapexecution">TWAPexecution</a></td>
+<td>Execution models, slippage, spread efficiency</td>
+</tr>
+<tr>
+<td><strong>Wallet & User Interfaces</strong></td>
+<td><a href="#phantom-wallet-integration">phantom-wallet-integration</a></td>
+<td>dApp UX, secure onboarding, Solana</td>
+</tr>
+<tr>
+<td><strong>Institutional Strategy</strong></td>
+<td><a href="#institutional-crypto-funding-analyzer">institutional-crypto-funding-analyzer</a></td>
+<td>Risk modeling, rate arbitrage, fund-level insights</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
-## Recent Thought Leadership
+## 🚀 Key Projects
 
-I share insights on trading, fintech, and blockchain through my Medium articles:
+### MarketMaking
+**A market-neutral liquidity provision algorithm for DeFi platforms**
 
-- [Elevating Crypto Market-Making: How AI is Transforming Liquidity and Trading](https://vishnugovind10.medium.com/elevating-cryptomarket-making-how-ai-is-transforming-liquidity-and-trading) (Feb 2025)
-- [Designing the Next-Gen Crypto Exchange](https://vishnugovind10.medium.com/designing-the-next-gen-crypto-exchange-revolutionizing-market-dynamics-for-a-secure-and-liquid) (Nov 2024)
-- [Prompt Engineering for Trading Algorithms](https://vishnugovind10.medium.com/prompt-engineering-for-trading-algorithms-a-case-study) (Jul 2024)
+🎯 Strategically balances inventory risk with adaptive spreads using real-time volatility
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/vishnugovind10/MarketMaking)
+
+📖 **Related Reading**: [Building the Next Generation of Crypto Market-Making Products: A Strategic Guide for CEOs and Product Managers](https://medium.com/@vishnugovind10/building-the-next-generation-of-crypto-market-making-products)
 
 ---
 
-## Let's Collaborate
+### phantom-wallet-integration
+**A dApp plugin for Phantom Wallet integration with DEXs on Solana**
 
-I'm passionate about building trading systems that deliver precision and performance. If you're working on cutting-edge trading strategies, DeFi solutions, or market infrastructure projects, let's connect! Reach out via [LinkedIn](https://www.linkedin.com/in/vishnu-govind) or explore my repositories to see my work in action.
+🎯 Designed with fallback logic and gas estimates to minimize UX friction under congestion
 
-📧 LinkedIn: https://www.linkedin.com/in/vishnu-govind/ 
-🌐 Medium: https://vishnugovind10.medium.com/ 
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/vishnugovind10/phantom-wallet-integration)
+
+📖 **Related Reading**: [Revolutionizing DeFi: How BaseSwap is Redefining Decentralized Trading](https://medium.com/@vishnugovind10/revolutionizing-defi-how-baseswap-is-redefining-decentralized-trading)
+
+---
+
+### TWAPexecution
+**A time-weighted average price strategy for large trade execution**
+
+🎯 Optimized to reduce market impact while maintaining execution speed
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/vishnugovind10/TWAPexecution)
+
+---
+
+### institutional-crypto-funding-analyzer
+**A tool for analyzing funding rates and strategies for crypto hedge funds**
+
+🎯 Integrates multi-exchange data to detect arbitrage opportunities and funding rate convergence
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/vishnugovind10/institutional-crypto-funding-analyzer)
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Programming & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Finance & Trading
+![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg_Terminal-000000?style=for-the-badge&logo=bloomberg&logoColor=white)
+![Trading Systems](https://img.shields.io/badge/Trading_Systems-FF6B35?style=for-the-badge)
+![Advanced Analytics](https://img.shields.io/badge/Advanced_Analytics-4285F4?style=for-the-badge)
+
+### Blockchain & DeFi
+![DeFi Protocols](https://img.shields.io/badge/DeFi_Protocols-627EEA?style=for-the-badge&logo=ethereum&logoColor=white)
+![Blockchain Development](https://img.shields.io/badge/Blockchain_Development-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
+![Protocol Optimization](https://img.shields.io/badge/Protocol_Optimization-14F195?style=for-the-badge&logo=solana&logoColor=black)
+
+</div>
+
+---
+
+## 📚 Publications
+
+> **Explore my insights into Web3, DeFi, and financial markets**
+
+- 📖 [**Designing the Next-Gen Crypto Exchange: Revolutionizing Market Dynamics for a Secure and Liquid Future**](https://medium.com/@vishnugovind10/designing-the-next-gen-crypto-exchange)
+
+- 📖 [**Building the Next Generation of Crypto Market-Making Products: A Strategic Guide for CEOs and Product Managers**](https://medium.com/@vishnugovind10/building-the-next-generation-of-crypto-market-making-products)
+
+- 📖 [**Revolutionizing DeFi: How BaseSwap is Redefining Decentralized Trading**](https://medium.com/@vishnugovind10/revolutionizing-defi-how-baseswap-is-redefining-decentralized-trading)
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Ready to collaborate on building the future of decentralized finance?**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishnu_Govind-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-govind)
+[![Medium](https://img.shields.io/badge/Medium-@vishnugovind10-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vishnugovind10)
+[![Twitter](https://img.shields.io/badge/Twitter-@vishnugovindmkt-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishnugovindmkt)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building resilient systems that bridge traditional finance and decentralized innovation"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=vishnugovind10&color=brightgreen&style=flat-square)
+
+</div>
